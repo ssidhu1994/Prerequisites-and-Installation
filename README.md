@@ -238,4 +238,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>	
 
 
-Click [here]() to move on to part 2 of this tutorial!
+Click [here](https://github.com/ssidhu1994/Post-Installation-Configuration) to move on to part 3 of this tutorial!
