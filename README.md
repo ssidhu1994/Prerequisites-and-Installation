@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <h3>Step 1: Connect to Your Virtual Machine with Remote Desktop</h3>
 
-- If you need help connecting to your virtual machine, please see my tutorial [here]()
+- If you need help connecting to your virtual machine, please see my tutorial [here](https://github.com/ssidhu1994/Creating-Virtual-Machine-on-Azure)
 
 <h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
 
